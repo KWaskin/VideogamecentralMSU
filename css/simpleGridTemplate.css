@@ -1,9 +1,11 @@
 @charset "UTF-8";
 /* Body */
 body {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	background-color: #FFFFFF;
-	margin: 0;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    background-color: #FFFFFF;
+    margin: 0;
+    font-style: normal;
+    font-weight: 400;
 }
 /* Container */
 .container {
